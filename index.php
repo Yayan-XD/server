@@ -135,18 +135,18 @@ setInterval(function() {
 <h4>YAYANXD TOOLKIT</h4>
 <div class="buttons-con">
 <div class="action-link-wrap">
-<a href="/server-ip/ip" class="link-button">IP ADDRESS</a>
-<a href="/server-ip/ua" class="link-button">USER AGENT</a>
+<a href="/server/ip" class="link-button">IP ADDRESS</a>
+<a href="/server/ua" class="link-button">USER AGENT</a>
 <br><br><br>
-<a href="/server-ip/kota" class="link-button">KOTA</a>
-<a href="/server-ip/negara" class="link-button">NEGARA</a>
+<a href="/server/kota" class="link-button">KOTA</a>
+<a href="/server/negara" class="link-button">NEGARA</a>
 <br><br><br>
-<a href="/server-ip/endec" class="link-button">ENDEC</a>
+<a href="/server/endec" class="link-button">ENDEC</a>
 <a href="https://www.facebook.com/KM39453" class="link-button">LAPORKAN</a>
 <a href="https://wa.me/6285603036683" class="link-button">WhatsApp</a>
 <br><br><br>
 <p>TOOLS UNTUK TERMUX</p>
-<a href="/server-ip/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
+<a href="/server/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
 <a href="https://github.com/Yayan-XD" class="link-button">GITHUB</a>
 <br><br><br>
 </div>

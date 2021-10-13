@@ -135,13 +135,13 @@ setInterval(function() {
 <h4>YAYANXD TOOLKIT</h4>
 <div class="buttons-con">
 <div class="action-link-wrap">
-<a href="https://yayanxd.my.id/server-ip/ip/index.php" class="link-button">IP ADDRESS</a>
-<a href="https://yayanxd.my.id/server-ip/ua/index.php" class="link-button">USER AGENT</a>
+<a href="/ip" class="link-button">IP ADDRESS</a>
+<a href="/ua" class="link-button">USER AGENT</a>
 <br><br><br>
-<a href="https://yayanxd.my.id/server-ip/kota/index.php" class="link-button">KOTA</a>
-<a href="https://yayanxd.my.id/server-ip/negara/index.php" class="link-button">NEGARA</a>
+<a href="/kota" class="link-button">KOTA</a>
+<a href="/negara" class="link-button">NEGARA</a>
 <br><br><br>
-<a href="https://yayanxd.my.id/server-ip/endec/index.php" class="link-button">ENDEC</a>
+<a href="/endec" class="link-button">ENDEC</a>
 <a href="https://www.facebook.com/KM39453" class="link-button">LAPORKAN</a>
 <a href="https://wa.me/6285603036683" class="link-button">WhatsApp</a>
 <br><br><br>
